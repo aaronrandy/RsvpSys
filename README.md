@@ -1,2 +1,2 @@
-# RsvpSys
+# Amarento
 RSVP System Development 
